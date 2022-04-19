@@ -146,6 +146,8 @@ struct Final_C2_Data_Format
 ```
 
 * Append the data to a HTTP request. For example:
+
+
 ```c
 Headers: Content-Type: multipart/form-data; boundary=--------LBKTtCPwQp
 ----------LBKTtCPwQp
