@@ -123,8 +123,6 @@ struct Network_Registration_Request
 
 * Hash the above data and create a new structure, which is the following:
 
-Hash the above data and create a new structure, which is the following:
-
 ```c
 struct Hashed_Data
 {
