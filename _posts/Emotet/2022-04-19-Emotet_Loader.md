@@ -176,7 +176,7 @@ Table 1 summarises the identified network commands.
 
 # References
 
-1.  https://github.com/nikpx/Various_Scripts/blob/main/Emotet/Emotet_IDA_Strings_Decryption.py
-2.  https://github.com/nikpx/Various_Scripts/blob/main/Emotet/Resolve_APIs_X64dbg_Script
-3.  https://github.com/ElvisBlue/emotet-deobfuscator
-4.  https://github.com/ulexec/EmotetCFU
+1. https://github.com/nikpx/Various_Scripts/blob/main/Emotet/Emotet_IDA_Strings_Decryption.py
+2. https://github.com/nikpx/Various_Scripts/blob/main/Emotet/Resolve_APIs_X64dbg_Script
+3. https://github.com/ElvisBlue/emotet-deobfuscator
+4. https://github.com/ulexec/EmotetCFU
